@@ -11,6 +11,8 @@ Pequeno desafio sobre imagens.
 inicia-se a busca por pixels vermelhos no formato [b,g,r] ou [0, 0,255]. 
   Para implementar um loop for duplo percorre a matriz de pixel uma linha por vez e compara cada pixel presente na imagem com um pixel vermelho.
   Esta solução não é capaz de decifrar a mensagem nos pontos. 
+  
+  
     2- solucao 2.0
   <>
   o final do semestre esta trabalahndo por voce :>
