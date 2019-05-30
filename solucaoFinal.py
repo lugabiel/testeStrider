@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-'''lê imagem .png'''
+'''lê imagem .png ou .jpg'''
 imgCV = cv2.imread("challenge_strider.png", -1)
 
 '''define um pixel vermelho'''
