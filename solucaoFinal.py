@@ -1,8 +1,13 @@
 import numpy as np
 import cv2
 
+<<<<<<< HEAD
 '''lê imagem .png ou .jpg'''
 imgCV = cv2.imread("challenge_strider.png", -1)
+=======
+'''lê imagem .png'''
+imgCV = cv2.imread("imgDominiopublico.jpg", -1)
+>>>>>>> 69200a89da4a53f83e6f28233f92aeea8aae70c4
 
 '''define um pixel vermelho'''
 pxVermelho = imgCV[2,574]
